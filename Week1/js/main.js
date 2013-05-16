@@ -8,7 +8,7 @@ $('#home').on('pageinit', function()
 
 $('#addItem').on('pageinit', function()
 {
-	//code for add/edit item page
+	//code for add/edit item page will go here
 });
 
 $('#viewItems').on('pageinit', function()
