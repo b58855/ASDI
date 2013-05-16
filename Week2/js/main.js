@@ -27,10 +27,24 @@ $('#viewItems').on('pageinit', function()
 				window.location.reload();
 			}
 		});
+	/*$('#parseJSON').on('click', function(){
+		$.getJSON('xhr/data.json', function(data){
+			console.log(data);
+		});
+	});
+	$('#parseXML').on('click',  function(){
+		$.ajax({
+			url : "xhr/data.xml", 
+			type : "GET"
+			//dataType : "xml" 
+		}).done(function(){
+				console.log('hi');
+			});
+	});	*/	
 });
 
 
-
+//saves data
 function saveToLocal()
 {
 	var oldKey = $(this).data('key') //gets the value of the key if there is already one
@@ -62,6 +76,7 @@ function saveToLocal()
 	window.location.reload();
 }
 
+//gets and displays data
 function getLocalData()
 {
 	//if not data
@@ -105,6 +120,7 @@ function deleteItem()
 	}
 }
 
+//edit an item
 function editItem()
 {
 	var key = $(this).data('key'); //finds the key for the item to be edited
@@ -115,7 +131,7 @@ function editItem()
 	//populates form with data
 	$('#category').val(data.category[1]);
 	$('#task').val(data.task[1]);
-	//$('#task').val(data.assigned[1]);
+	$('#assigned').val(data.assigned[1]);
 	$('#startDate').val(data.startDate[1]);
 	$('#endDate').val(data.endDate[1]);
 	$('#hours').val(data.hours[1]);
