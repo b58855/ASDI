@@ -1,5 +1,5 @@
 // JavaScript Document
-var json = {
+{
 	'task1': {
 		'category': ['Category', 'Design'],
 		'task': ['Task', 'Design Level 1'],
