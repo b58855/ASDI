@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<task>
+		<category>Design</category>
+		<taskName>Level 10</taskName>
+		<assigned>Davey Crocket</assigned>
+		<startDate>10-10-13</startDate>
+		<endDate>11-11-13</endDate>
+		<hours>50</hours>
+		<description>A dark smokey city at night, danger around every corner.</description>
+	</task>
+	
+	<task>
+		<category>Design</category>
+		<taskName>Level 11</taskName>
+		<assigned>John Wayne</assigned>
+		<startDate>10-12-13</startDate>
+		<endDate>11-13-13</endDate>
+		<hours>50</hours>
+		<description>Camelot in the future.</description>
+	</task>
+	
+	<task>
+		<category>Design</category>
+		<taskName>Level 12</taskName>
+		<assigned>Silvester Stalone</assigned>
+		<startDate>10-14-13</startDate>
+		<endDate>11-15-13</endDate>
+		<hours>25</hours>
+		<description>Marooned on an abandonded island</description>
+	</task>
+	
+	<task>
+		<category>Design</category>
+		<taskName>Level 13</taskName>
+		<assigned>Mighty Mouse</assigned>
+		<startDate>10-16-14</startDate>
+		<endDate>11-17-13</endDate>
+		<hours>5</hours>
+		<description>Deep Space</description>
+	</task>
+	
+	<task>
+		<category>Design</category>
+		<taskName>Level 14</taskName>
+		<assigned>Bruce Wayne</assigned>
+		<startDate>10-10-13</startDate>
+		<endDate>11-11-13</endDate>
+		<hours>100</hours>
+		<description>Jedi Temple</description>
+	</task>
+	
+	<task>
+		<category>Art</category>
+		<taskName>Concept Jedi</taskName>
+		<assigned>Obi-Won Kenobi</assigned>
+		<startDate>12-01-13</startDate>
+		<endDate>12-02-13</endDate>
+		<hours>5</hours>
+		<description>Preliminary drawings of Jedi</description>
+	</task>
+	
+	<task>
+		<category>Art</category>
+		<taskName>Batman Outfit</taskName>
+		<assigned>Steve Kerr</assigned>
+		<startDate>01-01-13</startDate>
+		<endDate>01-12-15</endDate>
+		<hours>6</hours>
+		<description>Make the most bad-ass batman costum ever</description>
+	</task>
+	
+	<task>
+		<category>Art</category>
+		<taskName>Joe Millionaire 3D</taskName>
+		<assigned>Steve Francis</assigned>
+		<startDate>09-10-13</startDate>
+		<endDate>10-10-13</endDate>
+		<hours>10</hours>
+		<description>3D model the main character</description>
+	</task>
+	
+	<task>
+		<category>Art</category>
+		<taskName>The White House 3D</taskName>
+		<assigned>President Obama</assigned>
+		<startDate>01-26-13</startDate>
+		<endDate>01-26-17</endDate>
+		<hours>100</hours>
+		<description>3D model the White House</description>
+	</task>
+	
+	<task>
+		<category>Art</category>
+		<taskName>New Starship Enterprise Concept</taskName>
+		<assigned>James T. Kirk</assigned>
+		<startDate>05-05-13</startDate>
+		<endDate>06-06-13</endDate>
+		<hours>100</hours>
+		<description>Rethink the Enterprise</description>
+	</task>
+</items>
