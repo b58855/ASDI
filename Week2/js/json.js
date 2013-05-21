@@ -1,13 +1,13 @@
-// JavaScript Document
+// JavaScript Document..
 var json = {
 	'task1': {
-		'category': ['Category', 'Design'],
-		'task': ['Task', 'Design Level 1'],
-		'assigned': ['Assigned', 'Evan Combs'],
-		'startDate': ['Start Date', '2013-03-22'],
-		'endDate': ['End Date', '2013-03-28'],
-		'hours': ['Hours', '30'],
-		'description': ['Description', 'Design the first level, "Ides of March" of the game. Start with a bang for an introduction']
+		"category": ['Category', 'Design'],
+		"task": ['Task', 'Design Level 1'],
+		"assigned": ['Assigned', 'Evan Combs'],
+		"startDate": ['Start Date', '2013-03-22'],
+		"endDate": ['End Date', '2013-03-28'],
+		"hours": ['Hours', '30'],
+		"description": ['Description', 'Design the first level, "Ides of March" of the game. Start with a bang for an introduction']
 	},
 	'task2': {
 		'category': ['Category', 'Art'],
