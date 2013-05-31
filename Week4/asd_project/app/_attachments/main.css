@@ -1,0 +1,14 @@
+/*
+	Evan Combs
+	ASDI 1305
+	Main CSS file
+*/
+
+
+.inputHint{
+	font-size: 9pt;
+}
+
+.error{
+	color: #F00;
+}
